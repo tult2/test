@@ -17,6 +17,8 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.AfterClass;
 
+
+//dhfisahfgaofgoafafigoas
 public class NewTest1 {
 	public WebDriver wd;
 	  @BeforeClass
